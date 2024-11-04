@@ -1,6 +1,6 @@
 ---
-title: Index page
-timestamp: 2015-10-11T12:30:01
+title: מביני קוד פייתון
+timestamp: 2024-11-04T09:30:01
 published: true
 author: szabgab
 description: The text for the search engines
@@ -10,6 +10,8 @@ todo:
     - TODO
 ---
 
-This is the main page of your site.
+דף הראשי של מביני קוד פייתון
 
+## פרסומים אחרונים
 
+{% latest limit=5 %}

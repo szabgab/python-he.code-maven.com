@@ -1,0 +1,10 @@
+pages:
+  image: python:3.11
+  script:
+    - python -V
+    - python generate.py
+  artifacts:
+    paths:
+      - public
+  only:
+    - main

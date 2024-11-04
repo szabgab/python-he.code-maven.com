@@ -3,7 +3,7 @@
 url: https://python-he.code-maven.com
 
 # site_name is used in the atom feed and in the Open Graph meta field of each page
-site_name: Demo
+site_name: מביני קוד פייתון
 
 # The source of the https://rust.code-maven.com site is in a public git repository
 # using the 'main' branch.
@@ -23,13 +23,13 @@ footer: "[מביני קוד](https://he.code-maven.com/)"
 # The following parameters set the `title` of the page and the content of the `description` meta-tag.
 tags:
   title: Tags
-  description: Articles about Foo Bar
+  description: מאמרים על פייתון
 
 # Each site has a /archive page generated from all the pages, except the main page (the root index.md file).
 # The following parameters set the `title` of the page and the content of the `description` meta-tag.
 archive:
-  title: Archive
-  description: Archive of this site
+  title: ארכיון
+  description: מאמרים על פייתון
 
 # If you have setup Google Analytics add your code here and uncomment the following field
 # google_analytics: G-BLABLA
@@ -44,7 +44,7 @@ from:
 # On each page show the list of pages that link to the current page.
 # Define the title of the section when the related pages are shown
 show_related: true
-related_pages_title: Related Pages
+related_pages_title: דפים קשורים לנושא
 
 # Each page can have an `author` field in the front-matter containing the nickname of the author.
 # Here we list all the authors of the site.
@@ -68,7 +68,7 @@ navbar:
       title: Tags
   end:
     - path: /archive
-      title: Archive
+      title: ארכיון
     - path: /about
       title: About
 
