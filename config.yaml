@@ -1,6 +1,6 @@
 # The URL of the site. It is used in the atom feed, the sitemap, the Open Graph meta field of each page, and the robots.txt
 # No trailing slashes!
-url: https://rust.code-maven.com
+url: https://python-he.code-maven.com
 
 # site_name is used in the atom feed and in the Open Graph meta field of each page
 site_name: Demo
@@ -12,12 +12,12 @@ site_name: Demo
 # You can disable this feature by keeping `link_to_source` as `false`.
 # You can enable this feature by putting the correct repo link and correct branch name
 # and setting `link_to_source` to `true`
-repo: https://github.com/szabgab/rust.code-maven.com
+repo: https://github.com/szabgab/python-he.code-maven.com
 branch: main
 link_to_source: false
 
 # Each page will have a footer as defined by the `footer` field that can contain markdown.
-footer: Demo of [Code Maven RS](https://github.com/szabgab/code-maven.rs) with links.
+footer: "[מביני קוד](https://he.code-maven.com/)"
 
 # Each site has a /tags page generated from the tags in the individual pages.
 # The following parameters set the `title` of the page and the content of the `description` meta-tag.
@@ -53,9 +53,9 @@ related_pages_title: Related Pages
 # Those file can contain information about the author that will be displayed at the bottom of each page.
 # TODO: where is the image located
 authors:
-  - name: Foo Bar
-    nickname: foobar
-    picture: foobar.png
+  - name: Gabor Szabo
+    nickname: szabgab
+    picture: szabgab.png
 
 # The following section defines the menu. The "start" will be left-aligned the "end" will be right aligned.
 # TODO: Once we implement rtl site this will probably be the other direction too
