@@ -11,6 +11,9 @@ tags:
 
 אם אתם יוצרים דף לפי הדוגמא הזאת, תפתכו issue ב פרויקט שלי
 
+{% youtube id="DQNguHtHnlI" %}
+
+2024-11-04-create-gitlab-pages-with-python-in-hebrew.mp4
 
 {% include file="examples/gitlab-pages/.gitlab-ci.yml" %}
 
