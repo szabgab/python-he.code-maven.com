@@ -13,9 +13,8 @@ tags:
 ---
 
 
-{% youtube id="XUPHCKeI8wQ" %}
+{% youtube id="XUPHCKeI8wQ" file="2024-11-06-about-python-org-il-in-hebrew.mp4" %}
 
-2024-11-06-about-python-org-il-in-hebrew.mp4
 
 האתר של [קהילת פייתון](https://python.org.il/) בארץ.
 
