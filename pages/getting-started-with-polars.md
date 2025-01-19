@@ -21,8 +21,11 @@ tags:
 
 Download the [Jupyter Notebook](https://github.com/szabgab/python-he.code-maven.com/tree/main/examples/polars) from here.
 
+## פרק ב
 
 {% youtube id="HoNkhE056b8" file="hebrew-python-polars-getting-started-part-2.mp4" %}
 
+
+## פרק ג
 
 {% youtube id="d5qDoBaA-c0" file="hebrew-python-polars-getting-started-part-3.mp4" %}
