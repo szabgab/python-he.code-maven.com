@@ -1,5 +1,5 @@
 ---
-title: מבוא לפולרס עם פייתון - פרק א
+title: מבוא לפולרס עם פייתון  - Getting started with Polars
 timestamp: 2025-01-19T11:30:01
 author: szabgab
 published: true
