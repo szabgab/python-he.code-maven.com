@@ -1,0 +1,10 @@
+numbers = [23, 11, -7, 19, -5, 1]
+print(numbers)
+numbers.sort()
+print(numbers)
+numbers.sort(reverse=True)
+print(numbers)
+numbers.sort(key=abs)
+print(numbers)
+numbers.sort(key=abs, reverse=True)
+print(numbers)
