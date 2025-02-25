@@ -18,7 +18,6 @@ show_related: true
 הקלטה של קורס פייתון על טסטינג בפיטסט
 
 
-<p>
 * [פרק א](/python-testing-1)
 * [פרק ב](/python-testing-2)
 * [פרק ג](/python-testing-3)
