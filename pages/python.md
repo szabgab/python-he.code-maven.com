@@ -22,6 +22,23 @@ show_related: false
 
 
 * [מבוא](/python-programming)
+    * [next](/python-programming)
+    * [next](/python-what-is)
+    * [next](/python-installing)
+    * [next](/python-editors-and-ide)
+    * [next](/python-documentation)
+    * [next](/python-program-types)
+    * [next](/python-hello-world)
+    * [next](/python-comments)
+    * [next](/python-variables)
+    * [next](/python-exercise-hello-world)
+    * [next](/python-what-is-programming)
+    * [next](/python-what-are-programming-languages)
+    * [next](/python-value-types)
+    * [next](/python-numerical-operations)
+    * [next](/python-exercise-calculations)
+    * [next](/python-solution-calculations)
+
 * [מבוא פרק 2](/python-modules)
 * [מספרים](/python-numbers)
 * [בולאנים](/python-boolean-operators)
