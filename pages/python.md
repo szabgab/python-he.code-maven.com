@@ -22,8 +22,8 @@ show_related: false
 
 
 * [מבוא](/python-programming)
-    * [next](/python-programming)
-    * [next](/python-what-is)
+    * [תכנות פייתון](/python-programming)
+    * [מה זה תכנות?](/python-what-is)
     * [next](/python-installing)
     * [next](/python-editors-and-ide)
     * [next](/python-documentation)
