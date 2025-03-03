@@ -1,7 +1,9 @@
-# שימוש באפי של גיטהב - פרק ב
-
-2023-07-19T17:00:02
+# שימוש באפי של גיטהב - פרק א
 
 GitHub
 
-{% youtube id="eMCgZZkTh28" file="hebrew-github-rest-and-graphql-api-2023-05-07-part-2.mp4" %}
+
+{% embed youtube id="ZyYs2PIoF2s" file="hebrew-github-rest-and-graphql-api-2023-05-07-part-1.mp4" %}
+
+
+
