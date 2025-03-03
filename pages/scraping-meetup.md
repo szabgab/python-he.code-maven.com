@@ -1,16 +1,11 @@
----
-title: Scraping Meetup in Python - איך שולפים נתונים מהאתר של מיטאפ בפייתון
-timestamp: 2025-02-23T17:30:01
-author: szabgab
-published: true
-description:
-tags:
-    - Meetup
----
+# Scraping Meetup in Python - איך שולפים נתונים מהאתר של מיטאפ בפייתון
 
-{% include file="examples/get_meetup.py" %}
 
-{% youtube id="FwlQQpF9Gfw" file="2025-02-23-scraping-meetup-in-python.mp4" %}
+```python
+{{#include examples/get_meetup.py }}
+```
+
+{% embed youtube id="FwlQQpF9Gfw" file="2025-02-23-scraping-meetup-in-python.mp4" %}
 
 * [events](https://events.code-maven.com/) - [source code](https://github.com/szabgab/events/)
 

@@ -1,17 +1,4 @@
----
-title: מבוא לפולרס עם פייתון  - Getting started with Polars
-timestamp: 2025-01-19T11:30:01
-author: szabgab
-published: true
-description:
-tags:
-    - dataframes
-    - Polars
-    - Pandas
-    - CSV
-    - Excel
-    - Jupyter
----
+# מבוא לפולרס עם פייתון  - Getting started with Polars
 
 * [Getting Started](https://docs.pola.rs/user-guide/getting-started/) הדף באתר של פולרס עם הקוד המקורי
 
@@ -22,13 +9,25 @@ Download the [Jupyter Notebook](https://github.com/szabgab/python-he.code-maven.
 
 ## פרק א
 
-{% youtube id="t_0wt7TyVp8" file="hebrew-python-polars-getting-started-part-1.mp4" %}
+{% embed youtube id="t_0wt7TyVp8" file="hebrew-python-polars-getting-started-part-1.mp4" %}
 
 ## פרק ב
 
-{% youtube id="HoNkhE056b8" file="hebrew-python-polars-getting-started-part-2.mp4" %}
+{% embed youtube id="HoNkhE056b8" file="hebrew-python-polars-getting-started-part-2.mp4" %}
 
 
 ## פרק ג
 
-{% youtube id="d5qDoBaA-c0" file="hebrew-python-polars-getting-started-part-3.mp4" %}
+{% embed youtube id="d5qDoBaA-c0" file="hebrew-python-polars-getting-started-part-3.mp4" %}
+
+
+2025-01-19T11:30:01
+
+    - dataframes
+    - Polars
+    - Pandas
+    - CSV
+    - Excel
+    - Jupyter
+
+

@@ -1,15 +1,7 @@
----
-title: "ביטויים רגולרים ודנא בפייתון"
-timestamp: 2021-07-04T04:02:01
-tags:
-  - Python
-published: true
-author: szabgab
-archive: true
----
+# ביטויים רגולרים ודנא בפייתון
 
 
 * [slides](https://code-maven.com/slides/python-programming/regex-dna)
 
-{% youtube id="BaTA9yfXh_8" file="hebrew-python-regexes-dna" %}
+{% embed youtube id="BaTA9yfXh_8" file="hebrew-python-regexes-dna" %}
 

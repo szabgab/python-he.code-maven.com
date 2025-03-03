@@ -1,14 +1,9 @@
----
-title: מיון רשימה של מספרים בפייתון
-timestamp: 2025-02-25T14:30:01
-author: szabgab
-published: true
-description:
-tags:
-    - sort
----
+# מיון רשימה של מספרים בפייתון
 
-{% include file="examples/sort_numbers.py" %}
+
+```python
+{{#include examples/sort_numbers.py }}
+```
 
 {% youtube id="GglTedA-EO8" file="2025-02-24-sorting-list-of-numbers-in-hebrew.mp4" %}
 
