@@ -2,7 +2,7 @@
 authors = ["Gabor Szabo"]
 #text-direction = "rtl"
 language = "he"
-src = "pages"
+src = "src"
 title = "מביני קוד - מביני פייתון"
 # description =
 
