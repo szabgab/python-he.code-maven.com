@@ -135,4 +135,4 @@
 - [מיון רשימה של מספרים בפייתון](./sort-list-of-numbers.md)
 - [שימוש באפי של גיטהב - פרק ב](./using-the-graphql-api-of-github-part-1.md)
 - [שימוש באפי של גיטהב - פרק א](./using-the-graphql-api-of-github-part-2.md)
-- [](./website-on-gitlab-pages.md)
+- [בנית אתר פשוט על גיטלאב](./website-on-gitlab-pages.md)
