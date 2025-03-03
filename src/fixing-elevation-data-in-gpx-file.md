@@ -13,8 +13,6 @@
 
 [העלאת הפרויקט לגיטהב](./creating-project-on-github.md)
 
-2021-04-04T17:30:01
-
 gpx
 
 

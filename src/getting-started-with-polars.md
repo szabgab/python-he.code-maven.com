@@ -7,18 +7,12 @@
 Download the [Jupyter Notebook](https://github.com/szabgab/python-he.code-maven.com/tree/main/examples/polars) from here.
 
 
-## פרק א
-
-{% embed youtube id="t_0wt7TyVp8" file="hebrew-python-polars-getting-started-part-1.mp4" %}
-
-## פרק ב
-
-{% embed youtube id="HoNkhE056b8" file="hebrew-python-polars-getting-started-part-2.mp4" %}
+* [מבוא לפולרס עם פייתון - פרק א](./getting-started-with-polars-1.md)
+* [מבוא לפולרס עם פייתון - פרק ב](./getting-started-with-polars-2.md)
+* [מבוא לפולרס עם פייתון - פרק ג](./getting-started-with-polars-3.md)
 
 
-## פרק ג
 
-{% embed youtube id="d5qDoBaA-c0" file="hebrew-python-polars-getting-started-part-3.mp4" %}
 
 
 2025-01-19T11:30:01
